@@ -15,8 +15,7 @@
 
 /* Pagina Index */
 .jumbotron{
-    background-image: url(http://www.riogaleao.com/wp-content/uploads/2017/12/riogaleao-rio-de-janeiro_header.jpg);
-    object-position: center;
+    background-image: url("../img/header.jpg");
 }
 p{
     text-align: justify;
