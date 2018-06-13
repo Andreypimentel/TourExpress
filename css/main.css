@@ -13,3 +13,14 @@
         TourExpress
 */
 
+/* Pagina Index */
+.jumbotron{
+    background-image: url(https://i1.wp.com/www.nomades011.com/wp-content/uploads/2016/05/mala-viagem.jpg);
+    object-position: center;
+}
+p{
+    text-align: justify;
+}
+#subtitulo{
+    text-align: center;
+}
